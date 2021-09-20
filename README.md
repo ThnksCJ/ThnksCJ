@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThnksCJ&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
-<!--
-**ThnksCJ/ThnksCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Hello world. I'm CJ, a backend developer 👨‍💻</div>  
+  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently coding in Javascript, Java, C++. 
+  
+  
+- Snort code everyday.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❓ I love playing with server hardware, and VM.
+
+
+
+<img float="center" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=ThnksCJ&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
+
