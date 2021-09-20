@@ -3,7 +3,7 @@
 ### <div align="center">Hello world. I'm CJ, a backend developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently coding in Javascript, Java, C++. 
+- 🌱 I’m currently coding in Javascript, Java, C++ and many more (Its Painful)
   
   
 - Snort code everyday.
