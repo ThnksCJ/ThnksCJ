@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThnksCJ&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThnksCJ&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="nadirabbas" /> </p>
 
 ### <div align="center">I'm CJ, a developer 👨‍💻</div>  
   
