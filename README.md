@@ -9,7 +9,7 @@
 - 🤖 I also make hacked clients.
   
 
-- ❓ I love playing with server hardware, and VM.
+- ❓ I love Making Random Stuff
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)
 
