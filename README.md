@@ -11,7 +11,7 @@
 
 - ❓ I love playing with server hardware, and VM.
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=ThnksCJ&show_icons=true&theme=radical)
 
