@@ -26,6 +26,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ThnksCJ&show_icons=true&theme=radical)
 
-![](https://metrics.lecoq.io/ThnksCJ) 
+![GitHub metrics](https://metrics.lecoq.io/ThnksCJ) 
 
 
