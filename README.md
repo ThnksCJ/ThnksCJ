@@ -14,7 +14,7 @@
 
 # Contact Me:
 
-![dipshitcord](https://discord.c99.nl/widget/theme-2/644210317861191680.png)
+![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)
 
 - Discord: [Thnks_CJ#0001](https://discord.com/users/644210317861191680)
 - Github: [ThnksCJ](https://github.com/ThnksCJ)
