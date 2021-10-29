@@ -20,8 +20,12 @@
 - Github: [ThnksCJ](https://github.com/ThnksCJ)
 - Twitter: [ThnksCJ](https://twitter.com/ThnksCj)
 
+# GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=ThnksCJ&show_icons=true&theme=radical)
+
+![](https://metrics.lecoq.io/ThnksCJ) 
 
 
