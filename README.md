@@ -11,7 +11,14 @@
 
 - ❓ I love Making Random Stuff
 
+
+# Contact Me:
+
 ![dipshitcord](https://discord.c99.nl/widget/theme-2/644210317861191680.png)
+
+- Discord: [Thnks_CJ#0001](https://discord.com/users/644210317861191680)
+- Github: [ThnksCJ](https://github.com/ThnksCJ)
+- Twitter: [ThnksCJ](https://twitter.com/ThnksCj)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)
 
