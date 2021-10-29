@@ -11,6 +11,8 @@
 
 - ❓ I love Making Random Stuff
 
+![dipshitcord](https://discord.c99.nl/widget/theme-2/644210317861191680.png)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=ThnksCJ&show_icons=true&theme=radical)
