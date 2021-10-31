@@ -36,6 +36,7 @@
 ## 🗂️ Highlight Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThnksCJ&repo=lavalink-list&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThnksCJ&repo=LavaLink-On-Replit&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Contact Me:
