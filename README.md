@@ -12,7 +12,7 @@
 - ❓ I love Making Random Stuff
 
 # My Webiste
-![alt text](path/to/svg "tooltip text")
+![website](./download.svg "why tf u lookin here?")
 
 ## 🔧 Technologies & Tools
 
