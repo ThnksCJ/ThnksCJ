@@ -12,10 +12,7 @@
 - ❓ I love Making Random Stuff
 
 # My Website
-![website](./download.svg "why tf u lookin here?")
-
-https://cjstevenson.com/
-
+![website](./download.svg "why tf u putting ur cuser here move on")
 
 ## 🔧 Technologies & Tools
 
