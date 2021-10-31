@@ -11,10 +11,11 @@
 
 - ❓ I love Making Random Stuff
 
-# My Webiste
+# My Website
 ![website](./download.svg "why tf u lookin here?")
 
-![](https://cjstevenson.com/)
+https://cjstevenson.com/
+
 
 ## 🔧 Technologies & Tools
 
