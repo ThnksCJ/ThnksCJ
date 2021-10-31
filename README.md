@@ -10,7 +10,10 @@
   
 
 - ❓ I love Making Random Stuff
-- 
+
+# My Webiste
+![alt text](path/to/svg "tooltip text")
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -52,6 +55,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/ThnksCJ) 
 
-# My Webiste
-![website](https://pagespeed-insights.herokuapp.com/?url=https://cjstevenson.com)
 
