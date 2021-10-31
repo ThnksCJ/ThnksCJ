@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 👨‍💻 This week, I spent my time on:
