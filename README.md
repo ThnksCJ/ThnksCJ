@@ -21,6 +21,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+
+
 # My Website (https://cjstevenson.com/)
 ![website](./download.svg "why tf u putting ur cuser here move on")
 
