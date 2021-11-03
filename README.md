@@ -54,7 +54,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
-### [![SpotifyLogo](https://emoji.gg/assets/emoji/SpotifyLogo.png width="32px")](https://emoji.gg/emoji/SpotifyLogo)Last Played On Spotify
+### [![SpotifyLogo](https://emoji.gg/assets/emoji/SpotifyLogo.png ")width="32px"](https://emoji.gg/emoji/SpotifyLogo)Last Played On Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://open.spotify.com/user/31w25qb4zldodlq3antpen6t5rw4)
 
 <br>
