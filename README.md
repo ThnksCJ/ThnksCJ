@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThnksCJ&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="nadirabbas" /> </p>
+
 
 <h3 align="center">
   Welcome to CJ Stevenson's profile!
