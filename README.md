@@ -1,15 +1,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThnksCJ&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="nadirabbas" /> </p>
 
 ### <div align="center">I'm CJ, a developer 👨‍💻</div>  
+<br/>
+<br/>
   
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThnksCJ/ThnksCJ/main/techstack.gif" width="360px"/>
+### 🧐 More About Me:
 
-- 🌱 I’m currently coding in Javascript, Java, C++ and many more (Its Painful)
-  
-  
-- 🤖 I also make hacked clients.
-  
-
-- ❓ I love Making Random Stuff
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+<br>
 
 # My Website (https://cjstevenson.com/)
 ![website](./download.svg "why tf u putting ur cuser here move on")
