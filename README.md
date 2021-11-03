@@ -21,6 +21,7 @@
   <a href="https://ko-fi.com/thnkscj"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
 
