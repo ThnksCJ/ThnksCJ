@@ -22,10 +22,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
-
-# My Website (https://cjstevenson.com/)
-![website](./download.svg "why tf u putting ur cuser here move on")
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -197,14 +193,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - Discord: [Thnks_CJ#0001](https://discord.com/users/644210317861191680)
 - Github: [ThnksCJ](https://github.com/ThnksCJ)
 - Twitter: [ThnksCJ](https://twitter.com/ThnksCj)
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=ThnksCJ&show_icons=true&theme=radical)
-
-![GitHub metrics](https://metrics.lecoq.io/ThnksCJ) 
 
 ## 📊 Github stats
 
