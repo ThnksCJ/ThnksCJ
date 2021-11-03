@@ -5,7 +5,7 @@
 <br/>
   
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThnksCJ/ThnksCJ/main/techstack.gif" width="360px"/>
-### 🧐 More About Me:
+## 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🌱 &nbsp; I’m currently learning Typescript; 
@@ -13,6 +13,8 @@
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 <br>
+
+
 
 # My Website (https://cjstevenson.com/)
 ![website](./download.svg "why tf u putting ur cuser here move on")
