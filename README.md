@@ -22,7 +22,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <br/>
 
 <!-- Social badges section -->
