@@ -46,7 +46,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThnksCJ/ThnksCJ/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+### 🧐More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🌱 &nbsp; I’m currently learning Typescript; 
@@ -54,8 +54,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
-### 🧐 Last Played On Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+### [![SpotifyLogo](https://emoji.gg/assets/emoji/SpotifyLogo.png)](https://emoji.gg/emoji/SpotifyLogo)Last Played On Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://open.spotify.com/user/31w25qb4zldodlq3antpen6t5rw4)
 
 <br>
 
