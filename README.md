@@ -21,7 +21,6 @@
   <a href="https://ko-fi.com/thnkscj"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 
 <!-- Social badges section -->
@@ -54,6 +53,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w25qb4zldodlq3antpen6t5rw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
