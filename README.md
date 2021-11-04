@@ -24,7 +24,7 @@
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- Badges with custom Icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
