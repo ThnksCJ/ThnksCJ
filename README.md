@@ -48,7 +48,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I’m currently working on **ReadMD+**
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
