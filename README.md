@@ -6,7 +6,8 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Discord%20Bot%20and%20Server%20developer;Self-taught%20Coder%20;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord%20Bot%20and%20Server%20developer;Self-taught%20Coder%20;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <!-- Social icons section -->
