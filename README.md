@@ -29,7 +29,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/UCRnWRg1BFt38H-ersjVUJ8A">
+  <a href="https://www.youtube.com/channel/UCRnWRg1BFt38H-ersjVUJ8A?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCRnWRg1BFt38H-ersjVUJ8A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/c/Thnks_CJ">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCRnWRg1BFt38H-ersjVUJ8A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
