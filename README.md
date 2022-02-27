@@ -61,17 +61,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-## 🗂️ Highlight Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThnksCJ&repo=lavalink-list&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThnksCJ&repo=LavaLink-On-Replit&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Contact Me:
 
-![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)
+[![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
 
 - Discord: [Thnks_CJ#0001](https://discord.com/users/644210317861191680)
 - Github: [ThnksCJ](https://github.com/ThnksCJ)
