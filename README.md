@@ -43,15 +43,12 @@
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThnksCJ/ThnksCJ/main/techstack.gif" width="360px"/>
   
 ### 🧐More About Me:
 
 - 🔭 &nbsp; I’m currently working on **ReadMD+**
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 <br>
 
