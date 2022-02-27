@@ -40,16 +40,15 @@
 </p>
 <br/>
 <br/>
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
   
 ### 🧐More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Nabia Client+**
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I’m currently learning Java; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to try help;
 <br>
 
 <br>
