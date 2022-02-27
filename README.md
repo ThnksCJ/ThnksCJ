@@ -46,7 +46,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐More About Me:
 
-- 🔭 &nbsp; I’m currently working on **ReadMD+**
+- 🔭 &nbsp; I’m currently working on **Nabia Client+**
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
