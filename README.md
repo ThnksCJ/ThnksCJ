@@ -4,12 +4,6 @@
   Welcome to CJ Stevenson's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord%20Bot%20and%20Server%20developer;Self-taught%20Coder%20;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/ThnksCj"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
@@ -22,7 +16,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
-
 <!-- Social badges section -->
 <!-- Badges with custom Icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
