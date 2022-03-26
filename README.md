@@ -41,8 +41,6 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to try help;
 <br>
 
-<br>
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
