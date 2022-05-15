@@ -1,6 +1,6 @@
 ### 🧐More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Nabia Client**
+- 🔭 &nbsp; I’m currently working on **Sync**
 - 🌱 &nbsp; I’m currently learning Java and JavaScript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to try help;
