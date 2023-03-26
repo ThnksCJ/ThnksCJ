@@ -1,15 +1,14 @@
 ### 🧐More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Sync**
-- 🌱 &nbsp; I’m currently learning Java and JavaScript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ThnksCJ?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to try help;
+- 🌱 &nbsp; I’m play block game server 2b2t
+- 👨🏻‍💻 &nbsp; Most of my projects are available here on [Github](https://github.com/ThnksCJ?tab=repositories)
 <br>
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ&show_icons=true&theme=dracula&row=2&column=3&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 # Contact Me:
 
 [![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
@@ -28,9 +27,4 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ThnksCJ" src="https://activity-graph.herokuapp.com/graph?username=ThnksCJ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
