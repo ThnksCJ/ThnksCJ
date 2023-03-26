@@ -16,8 +16,6 @@
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-# 💻 GitHub Profile Stats</summary>
 <   /a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThnksCJ" src="https://metrics.lecoq.io/ThnksCJ" /></a>
   <br/>
