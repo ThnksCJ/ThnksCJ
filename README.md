@@ -18,6 +18,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 # 💻 GitHub Profile Stats</summary>
+<   /a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThnksCJ" src="https://metrics.lecoq.io/ThnksCJ" /></a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThnksCJ" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=radical" height="192px"/></a>
