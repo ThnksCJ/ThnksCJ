@@ -6,9 +6,8 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ&show_icons=true&theme=dracula&row=2&column=3&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 # Contact Me:
 
 [![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
