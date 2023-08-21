@@ -1,8 +1,8 @@
 ### 🧐More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Sync**
-- 🌱 &nbsp; I’m play block game server 2b2t
-- 👨🏻‍💻 &nbsp; Most of my projects are available here on [Github](https://github.com/ThnksCJ?tab=repositories)
+- 🔭 &nbsp; I’m currently working on **Sync Client**
+- 🌱 &nbsp; I play block game server 2b2t
+- 👨🏻‍💻 &nbsp; Some of my projects are available here on [Github](https://github.com/ThnksCJ?tab=repositories)
 <br>
 
 ## 🏆 GitHub Trophies
@@ -10,7 +10,7 @@
 
 # Contact Me:
 
-[![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
+[![discord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
 - Github: [ThnksCJ](https://github.com/ThnksCJ)
 - Twitter: [ThnksCJ](https://twitter.com/ThnksCj)
 
