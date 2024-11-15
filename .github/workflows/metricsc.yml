@@ -37,10 +37,10 @@ jobs:
           plugin_achievements_threshold: C
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 30
+          plugin_habits_days: 9999
           plugin_habits_facts: yes
-          plugin_habits_from: 1000
-          plugin_habits_languages_limit: 8
+          plugin_habits_from: 300
+          plugin_habits_languages_limit: 5
           plugin_habits_languages_threshold: 0%
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
