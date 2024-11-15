@@ -3,13 +3,21 @@
 
 ### 🧐 About Me:
 
-- 🔭 &nbsp; I’m currently working on **Jadyen.dev**
-- 🌱 &nbsp; I sometimes play a block game server called 2b2t
-- 👨🏻‍💻 &nbsp; Some of my projects are available here on [Github](https://github.com/ThnksCJ?tab=repositories)
-<br>
+<p align="center">
+  - 🔭 &nbsp; I’m currently working on <strong>Jadyen.dev</strong> <br>
+  - 🌱 &nbsp; I sometimes play a block game server called 2b2t <br>
+  - 👨🏻‍💻 &nbsp; Some of my projects are available here on 
+  <a href="https://github.com/ThnksCJ?tab=repositories">Github</a>
+</p>
+
+<p align="center">
   <a href=""><img alt="ThnksCJ" src="github-metrics.svg" /></a>
-  <br/>
+</p>
 
 # Contact Me:
 
-[![discord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
+<p align="center">
+  <a href="https://discord.com/users/644210317861191680">
+    <img alt="discord" src="https://discord.c99.nl/widget/theme-3/644210317861191680.png" />
+  </a>
+</p>
