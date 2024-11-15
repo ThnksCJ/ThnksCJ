@@ -12,9 +12,7 @@
   <a href=""><img alt="ThnksCJ" src="github-metrics.svg" /></a>
 </p>
   <br>
-<p align="center">
-  # Contact Me:
-</p>
+
 <p align="center">
   <a href="https://discord.com/users/644210317861191680">
     <img alt="discord" src="https://discord.c99.nl/widget/theme-3/644210317861191680.png" />
