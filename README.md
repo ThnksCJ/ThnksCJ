@@ -1,23 +1,15 @@
-### 🧐More About Me:
+<h1 align="center">Hey 👋, I'm CJ</h1>
+<h3 align="center">A self-taught developer from the UK</h3>
 
-- 🔭 &nbsp; I’m currently working on **Sync Client**
-- 🌱 &nbsp; I play block game server 2b2t
+### 🧐 About Me:
+
+- 🔭 &nbsp; I’m currently working on **Jadyen.dev**
+- 🌱 &nbsp; I sometimes play a block game server called 2b2t
 - 👨🏻‍💻 &nbsp; Some of my projects are available here on [Github](https://github.com/ThnksCJ?tab=repositories)
 <br>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThnksCJ&show_icons=true&theme=dracula&row=2&column=3&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href=""><img alt="ThnksCJ" src="github-metrics.svg" /></a>
+  <br/>
 
 # Contact Me:
 
 [![discord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
-- Github: [ThnksCJ](https://github.com/ThnksCJ)
-- Twitter: [ThnksCJ](https://twitter.com/ThnksCj)
-
-## 📊 Github stats
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThnksCJ" src="https://metrics.lecoq.io/ThnksCJ" /></a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThnksCJ" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThnksCJ&layout=compact&show_icons=true&theme=dracula" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThnksCJ" src="https://github-readme-stats.vercel.app/api?username=ThnksCJ&show_icons=true&theme=dracula" height="192px"/></a>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
